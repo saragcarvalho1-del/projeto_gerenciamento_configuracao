@@ -1,0 +1,8 @@
+PROJETO DE GERENCIAMENTO DE CONFIGURAÇÃO
+
+Este projeto tem como objetivo demonstrar o uso do GitHub
+para armazenar, organizar e controlar versões de artefatos
+de um projeto de software.
+
+O repositório permite compartilhar arquivos e acompanhar
+as modificações realizadas durante o desenvolvimento.
